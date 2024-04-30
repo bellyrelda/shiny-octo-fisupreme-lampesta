@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shiny-octo-fisupreme-lampesta/static/css/main.c7608fba.css",
+    "main.js": "/shiny-octo-fisupreme-lampesta/static/js/main.37e7d9b7.js",
+    "static/css/948.0bf9239e.chunk.css": "/shiny-octo-fisupreme-lampesta/static/css/948.0bf9239e.chunk.css",
+    "static/js/948.8096649d.chunk.js": "/shiny-octo-fisupreme-lampesta/static/js/948.8096649d.chunk.js",
+    "static/js/453.26bedefc.chunk.js": "/shiny-octo-fisupreme-lampesta/static/js/453.26bedefc.chunk.js",
+    "static/js/339.627f0f5d.chunk.js": "/shiny-octo-fisupreme-lampesta/static/js/339.627f0f5d.chunk.js",
+    "static/media/hobspot-loader.webp": "/shiny-octo-fisupreme-lampesta/static/media/hobspot-loader.b653093eceea45b8803d.webp",
+    "index.html": "/shiny-octo-fisupreme-lampesta/index.html",
+    "main.c7608fba.css.map": "/shiny-octo-fisupreme-lampesta/static/css/main.c7608fba.css.map",
+    "main.37e7d9b7.js.map": "/shiny-octo-fisupreme-lampesta/static/js/main.37e7d9b7.js.map",
+    "948.0bf9239e.chunk.css.map": "/shiny-octo-fisupreme-lampesta/static/css/948.0bf9239e.chunk.css.map",
+    "948.8096649d.chunk.js.map": "/shiny-octo-fisupreme-lampesta/static/js/948.8096649d.chunk.js.map",
+    "453.26bedefc.chunk.js.map": "/shiny-octo-fisupreme-lampesta/static/js/453.26bedefc.chunk.js.map",
+    "339.627f0f5d.chunk.js.map": "/shiny-octo-fisupreme-lampesta/static/js/339.627f0f5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7608fba.css",
+    "static/js/main.37e7d9b7.js"
+  ]
+}
